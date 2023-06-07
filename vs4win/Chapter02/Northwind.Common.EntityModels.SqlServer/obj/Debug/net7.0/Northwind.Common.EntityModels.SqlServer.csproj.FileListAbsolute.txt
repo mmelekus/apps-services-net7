@@ -1,0 +1,14 @@
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.deps.json
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.runtimeconfig.json
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.dll
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.pdb
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.csproj.AssemblyReference.cache
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfoInputs.cache
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfo.cs
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.dll
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\refint\Northwind.Common.EntityModels.SqlServer.dll
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.pdb
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.genruntimeconfig.cache
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\ref\Northwind.Common.EntityModels.SqlServer.dll

@@ -1,0 +1,12 @@
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\bin\Debug\net7.0\MappingObjects.Models.deps.json
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\bin\Debug\net7.0\MappingObjects.Models.dll
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\bin\Debug\net7.0\MappingObjects.Models.pdb
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.csproj.AssemblyReference.cache
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.AssemblyInfoInputs.cache
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.AssemblyInfo.cs
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.csproj.CoreCompileInputs.cache
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.dll
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\obj\Debug\net7.0\refint\MappingObjects.Models.dll
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\obj\Debug\net7.0\MappingObjects.Models.pdb
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Models\obj\Debug\net7.0\ref\MappingObjects.Models.dll

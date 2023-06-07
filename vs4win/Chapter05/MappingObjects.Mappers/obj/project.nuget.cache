@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hUjfviLLA3F3EefA5ODJQQvIJOKRJmhEurURQjo9cmRMWRgFu3RHK/F80+mWFGDBjkWPq5Tpqr1ZDkA7tMjEKw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Mappers\\MappingObjects.Mappers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MMele\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\MMele\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,234 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Tests\\MappingObjects.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Mappers\\MappingObjects.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Mappers\\MappingObjects.Mappers.csproj",
+        "projectName": "MappingObjects.Mappers",
+        "projectPath": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Mappers\\MappingObjects.Mappers.csproj",
+        "packagesPath": "C:\\Users\\MMele\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MMele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Models\\MappingObjects.Models.csproj": {
+                "projectPath": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Models\\MappingObjects.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Models\\MappingObjects.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Models\\MappingObjects.Models.csproj",
+        "projectName": "MappingObjects.Models",
+        "projectPath": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Models\\MappingObjects.Models.csproj",
+        "packagesPath": "C:\\Users\\MMele\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MMele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Tests\\MappingObjects.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Tests\\MappingObjects.Tests.csproj",
+        "projectName": "MappingObjects.Tests",
+        "projectPath": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Tests\\MappingObjects.Tests.csproj",
+        "packagesPath": "C:\\Users\\MMele\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MMele\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Mappers\\MappingObjects.Mappers.csproj": {
+                "projectPath": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Mappers\\MappingObjects.Mappers.csproj"
+              },
+              "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Models\\MappingObjects.Models.csproj": {
+                "projectPath": "c:\\Users\\MMele\\OneDrive\\Projects\\apps-services-net7\\vs4win\\Chapter05\\MappingObjects.Models\\MappingObjects.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

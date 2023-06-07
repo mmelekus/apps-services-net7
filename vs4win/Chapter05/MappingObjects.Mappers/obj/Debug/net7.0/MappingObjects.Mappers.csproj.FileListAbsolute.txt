@@ -1,0 +1,15 @@
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\bin\Debug\net7.0\MappingObjects.Mappers.deps.json
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\bin\Debug\net7.0\MappingObjects.Mappers.dll
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\bin\Debug\net7.0\MappingObjects.Mappers.pdb
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\bin\Debug\net7.0\MappingObjects.Models.dll
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\bin\Debug\net7.0\MappingObjects.Models.pdb
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\obj\Debug\net7.0\MappingObjects.Mappers.csproj.AssemblyReference.cache
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\obj\Debug\net7.0\MappingObjects.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\obj\Debug\net7.0\MappingObjects.Mappers.AssemblyInfoInputs.cache
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\obj\Debug\net7.0\MappingObjects.Mappers.AssemblyInfo.cs
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\obj\Debug\net7.0\MappingObjects.Mappers.csproj.CoreCompileInputs.cache
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\obj\Debug\net7.0\MappingObjects.Mappers.csproj.CopyComplete
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\obj\Debug\net7.0\MappingObjects.Mappers.dll
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\obj\Debug\net7.0\refint\MappingObjects.Mappers.dll
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\obj\Debug\net7.0\MappingObjects.Mappers.pdb
+c:\Users\MMele\OneDrive\Projects\apps-services-net7\vs4win\Chapter05\MappingObjects.Mappers\obj\Debug\net7.0\ref\MappingObjects.Mappers.dll
