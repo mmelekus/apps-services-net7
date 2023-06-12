@@ -25,3 +25,8 @@ Task<string> taskServiceThenSProc = Task.Factory
     .ContinueWith(previousTask => CallStoredProcedure(previousTask.Result)); // returns Task<string>
 WriteLine($"Result: {taskServiceThenSProc.Result}");
 WriteLine($"{timer.ElapsedMilliseconds:#,##0}ms elapsed.");
+
+SectionTitle("Nested and child tasks");
+Task outerTask = Task.Factory.StartNew(OuterMethod);
+outerTask.Wait();
+WriteLine("Console app is stopping.");

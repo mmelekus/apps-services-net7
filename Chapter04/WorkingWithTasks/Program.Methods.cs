@@ -41,4 +41,18 @@ partial class Program
         TaskTitle("Finished call to stored procedure.");
         return $"12 production cost more than {amount:C}.";
     }
+
+    static void OuterMethod()
+    {
+        TaskTitle("Outer method starting...");
+        Task innerTask = Task.Factory.StartNew(InnerMethod, TaskCreationOptions.AttachedToParent);
+        TaskTitle("Outer method finished.");
+    }
+
+    static void InnerMethod()
+    {
+        TaskTitle("Inner method starting...");
+        Thread.Sleep(2000);
+        TaskTitle("Inner method finished.");
+    }
 }
