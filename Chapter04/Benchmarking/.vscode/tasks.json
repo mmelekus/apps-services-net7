@@ -8,6 +8,8 @@
             "args": [
                 "build",
                 "${workspaceFolder}/Benchmarking.csproj",
+                "--configuration",
+                "Release",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
